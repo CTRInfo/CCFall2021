@@ -2521,7 +2521,7 @@ a {
   text-align: left;
 }
 .cid-sOWswxXbbP {
-  padding-top: 0rem;
+  padding-top: 3rem;
   padding-bottom: 4rem;
   background-color: #ffffff;
 }
@@ -2547,14 +2547,14 @@ a {
   color: #545454;
   text-align: left;
 }
-.cid-sNKq5ZHb9J {
+.cid-sOXabh8ZR2 {
   padding-top: 2rem;
   padding-bottom: 1rem;
-  background-image: url("../../../assets/images/ctr-newsletter-banner-dgr-1584x396.png");
+  background-image: url("../../../assets/images/ctr-newsletter-banner-dg-1584x396.png");
 }
-.cid-sNKq5ZHb9J .mbr-section-title {
+.cid-sOXabh8ZR2 .mbr-section-title {
   color: #353535;
-  text-align: right;
+  text-align: left;
 }
 .cid-sNOQtGbII8 {
   padding-top: 2rem;
@@ -3711,85 +3711,6 @@ a {
 .cid-s48P1Icc8J foot-menu-item P {
   color: #766c67;
 }
-.cid-sOgXjvFgBw {
-  padding-top: 3rem;
-  padding-bottom: 2rem;
-  background-image: url("../../../assets/images/banner-section-1584x396.png");
-}
-.cid-sOgXjvFgBw .mbr-section-title {
-  text-align: left;
-  color: #545454;
-}
-.cid-sOh4hvjuPo {
-  background-image: url("../../../assets/images/reiw2019-2000x1500.jpg");
-}
-.cid-sOh4hvjuPo .mbr-text,
-.cid-sOh4hvjuPo .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-sOh4hvjuPo .mbr-section-title {
-  color: #ffffff;
-  text-align: right;
-}
-.cid-sOh3kT5aRs {
-  padding-top: 2rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sOh3kT5aRs .number-wrap {
-  color: #545454;
-  text-align: center;
-}
-.cid-sOh3kT5aRs .number {
-  color: #545454;
-}
-.cid-sOh3kT5aRs .period {
-  display: block;
-}
-.cid-sOh3kT5aRs .dot {
-  display: none;
-}
-@media (max-width: 767px) {
-  .cid-sOh3kT5aRs .period {
-    font-size: 0.8rem;
-  }
-}
-.cid-sOh3kT5aRs .btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-sOh3kT5aRs .mbr-section-btn {
-  margin-bottom: 1.2rem;
-}
-.cid-sOh3kT5aRs .icons-menu .soc-item {
-  padding-left: 8px;
-  padding-right: 8px;
-}
-.cid-sOh3kT5aRs .icons-menu .soc-item .mbr-iconfont {
-  font-size: 2rem;
-  display: flex;
-  border-radius: 50%;
-  text-align: center;
-  color: #6592e6;
-  border: 2px solid #6592e6;
-  justify-content: center;
-  align-content: center;
-  transition: all 0.3s;
-}
-.cid-sOh3kT5aRs .icons-menu .soc-item .mbr-iconfont:before {
-  padding: 0.6rem;
-}
-.cid-sOh3kT5aRs .icons-menu .soc-item .mbr-iconfont:hover {
-  background-color: #6592e6;
-  color: #ffffff;
-}
-.cid-sOh3kT5aRs H3 {
-  color: #007873;
-}
-.cid-sOh3kT5aRs .mbr-text,
-.cid-sOh3kT5aRs .mbr-section-btn {
-  color: #545454;
-}
 .cid-sObDKJLWGU {
   padding-top: 3rem;
   padding-bottom: 2rem;
@@ -4247,6 +4168,85 @@ a {
   }
 }
 .cid-sfB8OGX4Dl .mbr-section-title {
+  color: #545454;
+}
+.cid-sOgXjvFgBw {
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  background-image: url("../../../assets/images/banner-section-1584x396.png");
+}
+.cid-sOgXjvFgBw .mbr-section-title {
+  text-align: left;
+  color: #545454;
+}
+.cid-sOh4hvjuPo {
+  background-image: url("../../../assets/images/reiw2019-2000x1500.jpg");
+}
+.cid-sOh4hvjuPo .mbr-text,
+.cid-sOh4hvjuPo .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sOh4hvjuPo .mbr-section-title {
+  color: #ffffff;
+  text-align: right;
+}
+.cid-sOh3kT5aRs {
+  padding-top: 2rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sOh3kT5aRs .number-wrap {
+  color: #545454;
+  text-align: center;
+}
+.cid-sOh3kT5aRs .number {
+  color: #545454;
+}
+.cid-sOh3kT5aRs .period {
+  display: block;
+}
+.cid-sOh3kT5aRs .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-sOh3kT5aRs .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-sOh3kT5aRs .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-sOh3kT5aRs .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-sOh3kT5aRs .icons-menu .soc-item {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.cid-sOh3kT5aRs .icons-menu .soc-item .mbr-iconfont {
+  font-size: 2rem;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #6592e6;
+  border: 2px solid #6592e6;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-sOh3kT5aRs .icons-menu .soc-item .mbr-iconfont:before {
+  padding: 0.6rem;
+}
+.cid-sOh3kT5aRs .icons-menu .soc-item .mbr-iconfont:hover {
+  background-color: #6592e6;
+  color: #ffffff;
+}
+.cid-sOh3kT5aRs H3 {
+  color: #007873;
+}
+.cid-sOh3kT5aRs .mbr-text,
+.cid-sOh3kT5aRs .mbr-section-btn {
   color: #545454;
 }
 .cid-s48P1Icc8J {
