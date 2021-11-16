@@ -2409,6 +2409,51 @@ a {
   color: #545454;
   text-align: right;
 }
+.cid-sNPyYzhtZT {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-image: url("../../../assets/images/ctr-newsletter-banner-dg-1584x396.png");
+}
+.cid-sNPyYzhtZT .mbr-section-title {
+  color: #353535;
+  text-align: left;
+}
+.cid-sNPzhRtYiQ {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sNPzhRtYiQ .mbr-section-subtitle {
+  color: #545454;
+}
+.cid-sNPzhRtYiQ .mbr-text {
+  color: #232323;
+}
+.cid-sNUObsX9Ks {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-sNUObsX9Ks .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-sNUObsX9Ks .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-sNUObsX9Ks .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sNUObsX9Ks .name {
+  color: #545454;
+}
+.cid-sNUObsX9Ks .mbr-text {
+  color: #232323;
+}
 .cid-sOW55gp59O {
   padding-top: 2rem;
   padding-bottom: 1rem;
@@ -2501,51 +2546,6 @@ a {
 .cid-sOWswxXbbP .mbr-section-btn {
   color: #545454;
   text-align: left;
-}
-.cid-sNPyYzhtZT {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
-  background-image: url("../../../assets/images/ctr-newsletter-banner-dg-1584x396.png");
-}
-.cid-sNPyYzhtZT .mbr-section-title {
-  color: #353535;
-  text-align: left;
-}
-.cid-sNPzhRtYiQ {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sNPzhRtYiQ .mbr-section-subtitle {
-  color: #545454;
-}
-.cid-sNPzhRtYiQ .mbr-text {
-  color: #232323;
-}
-.cid-sNUObsX9Ks {
-  padding-top: 1rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-sNUObsX9Ks .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-sNUObsX9Ks .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-@media (max-width: 767px) {
-  .cid-sNUObsX9Ks .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-sNUObsX9Ks .name {
-  color: #545454;
-}
-.cid-sNUObsX9Ks .mbr-text {
-  color: #232323;
 }
 .cid-sNKq5ZHb9J {
   padding-top: 2rem;
